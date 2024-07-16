@@ -16,7 +16,3 @@ public class OpenGoogle {
         driver.quit();
     }
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
